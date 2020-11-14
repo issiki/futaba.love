@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一色双葉的笔记</title>
+  
+  <subtitle>写写画画</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://futaba.love/"/>
+  <updated>2020-11-13T08:50:42.271Z</updated>
+  <id>https://futaba.love/</id>
+  
+  <author>
+    <name>一色双葉</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学士学位英语考试</title>
+    <link href="https://futaba.love/2020/11/13/english-examination-for-bachelors-degree/"/>
+    <id>https://futaba.love/2020/11/13/english-examination-for-bachelors-degree/</id>
+    <published>2020-11-13T08:50:42.000Z</published>
+    <updated>2020-11-13T08:50:42.271Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;后续-2020-11-13&quot;&gt;&lt;a href=&quot;#后续-2020-11-13&quot; class=&quot;headerlink&quot; title=&quot;后续 2020-11-13&quot;&gt;&lt;/a&gt;后续
+        
+      
+    
+    </summary>
+    
+      <category term="自考" scheme="https://futaba.love/categories/zikao/"/>
+    
+    
+      <category term="自考" scheme="https://futaba.love/tags/zikao/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>office-已删除的OneNote笔记本在“更多笔记”中依然存在，如何删除？</title>
+    <link href="https://futaba.love/2020/05/16/how-to-remove-more-notes-in-onenote/"/>
+    <id>https://futaba.love/2020/05/16/how-to-remove-more-notes-in-onenote/</id>
+    <published>2020-05-16T09:03:49.000Z</published>
+    <updated>2020-11-13T06:42:52.752Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;使用的OneNote版本为ipad版。&lt;/p&gt;
+&lt;p&gt;解决方法是找到这里记录到底在哪里。&lt;/p&gt;
+&lt;p&gt;参考了&lt;a href=&quot;https://blog.csdn.net/Oskar_Lu/article/details/105555705&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="office" scheme="https://futaba.love/categories/office/"/>
+    
+    
+      <category term="office" scheme="https://futaba.love/tags/office/"/>
+    
+      <category term="onenote" scheme="https://futaba.love/tags/onenote/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随鼠标移动的音符特效</title>
+    <link href="https://futaba.love/2020/04/16/visual-effects-on-mouse-move/"/>
+    <id>https://futaba.love/2020/04/16/visual-effects-on-mouse-move/</id>
+    <published>2020-04-16T08:53:04.000Z</published>
+    <updated>2020-11-14T01:37:48.179Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://miku.qq.com/main.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JAVASCRIPT" scheme="https://futaba.love/categories/javascript/"/>
+    
+    
+      <category term="JAVASCRIPT" scheme="https://futaba.love/tags/javascript/"/>
+    
+      <category term="初音未来" scheme="https://futaba.love/tags/hatsune-miku/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不再用中国版的Unity了</title>
+    <link href="https://futaba.love/2020/04/07/no-more-fucking-unity/"/>
+    <id>https://futaba.love/2020/04/07/no-more-fucking-unity/</id>
+    <published>2020-04-06T17:10:57.000Z</published>
+    <updated>2020-11-13T08:55:59.847Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;后续-2020-11-13&quot;&gt;&lt;a href=&quot;#后续-2020-11-13&quot; class=&quot;headerlink&quot; title=&quot;后续 2020-11-13&quot;&gt;&lt;/a&gt;后续
+        
+      
+    
+    </summary>
+    
+      <category term="UNITY" scheme="https://futaba.love/categories/UNITY/"/>
+    
+    
+      <category term="UNITY" scheme="https://futaba.love/tags/UNITY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习MikuMikuDance</title>
+    <link href="https://futaba.love/2019/07/09/learn-mikumikudance/"/>
+    <id>https://futaba.love/2019/07/09/learn-mikumikudance/</id>
+    <published>2019-07-09T08:56:38.000Z</published>
+    <updated>2020-11-13T06:42:52.751Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;事前准备&quot;&gt;&lt;a href=&quot;#事前准备&quot; class=&quot;headerlink&quot; title=&quot;事前准备&quot;&gt;&lt;/a&gt;事前准备&lt;/h2&gt;&lt;p&gt;国外的维基网站：&lt;a href=&quot;https://mikumikudance.fandom.com/wiki/MikuMikuDance_Wiki&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MikuMikuDance Wiki&lt;/a&gt;&lt;br&gt;国外的贴吧：&lt;a href=&quot;http://tieba.baidu.com/f?kw=mikumikudance&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MikuMikuDance吧&lt;/a&gt;&lt;br&gt;贴吧的新人教程：&lt;a href=&quot;http://tieba.baidu.com/p/5590672522&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://tieba.baidu.com/p/5590672522&lt;/a&gt;&lt;br&gt;教程配的B站视频：&lt;a href=&quot;https://www.bilibili.com/video/av20662019/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.bilibili.com/video/av20662019/&lt;/a&gt;&lt;br&gt;某个粉丝社区的MMD区：&lt;a href=&quot;https://www.mikuclub.org/mmd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;初音社的MMD区&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以下内容未完成&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="MMD" scheme="https://futaba.love/categories/miku-miku-dance/"/>
+    
+    
+      <category term="初音未来" scheme="https://futaba.love/tags/hatsune-miku/"/>
+    
+      <category term="MMD" scheme="https://futaba.love/tags/miku-miku-dance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gmail加点与别名</title>
+    <link href="https://futaba.love/2019/04/25/gmail-dot-alias/"/>
+    <id>https://futaba.love/2019/04/25/gmail-dot-alias/</id>
+    <published>2019-04-25T06:35:03.000Z</published>
+    <updated>2020-11-13T06:42:52.751Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;因为Google被墙，很久没有使用过Gmail了。&lt;br&gt;今天清点自己的邮箱账号，又搜索了一些邮箱的使用经验，于是决定再注册Gmail。&lt;/p&gt;
+&lt;p&gt;Gmail有两个特色功能非常好。一是，邮箱字符之间可以加一个英文句点；二是，邮箱地址的别名。&lt;/p&gt;
+&lt;p&gt;官方说明为：&lt;
+        
+      
+    
+    </summary>
+    
+      <category term="邮件" scheme="https://futaba.love/categories/mail/"/>
+    
+    
+      <category term="邮件" scheme="https://futaba.love/tags/mail/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最近，对外国人和台湾人的看法变得负面了</title>
+    <link href="https://futaba.love/2019/03/15/recently-views-on-foreigners-and-taiwanren-became-negative/"/>
+    <id>https://futaba.love/2019/03/15/recently-views-on-foreigners-and-taiwanren-became-negative/</id>
+    <published>2019-03-15T01:53:39.000Z</published>
+    <updated>2020-11-13T06:42:52.747Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;电影《流浪地球》&quot;&gt;&lt;a href=&quot;#电影《流浪地球》&quot; class=&quot;headerlink&quot; title=&quot;电影《流浪地球》&quot;&gt;&lt;/a&gt;电影《流浪地球》&lt;/h2&gt;&lt;p&gt;自从在贴吧见识过漫画《蝙蝠侠》的失智漫迷后，我对蝙蝠侠中强行没有超能力的设定就敬而远之了，继而渐渐地不喜欢美国的超级英雄。可是一直没有找到令自己信服的理由。自从去电影院看过《流浪地球》，终于找到了其中的缘由。&lt;/p&gt;
+&lt;p&gt;美国的超级英雄电影，最近的套路过于老套，都是“数个美国的超级英雄，靠超能力打败各种有黑科技的外星人、神明之类的敌人，拯救了美国，顺便拯救了世界”。&lt;/p&gt;
+&lt;p&gt;《流浪地球》的立意，从一开始就比美国的超级英雄高出一截，“全世界的人联合起来，拯救我们赖以生存的地球”。是的，这里没有美国，有的是全球的人。这里的人不是全部说英语的人，他们说自己的语言，有&lt;ruby&gt;&lt;rb&gt;AI&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;人工智能&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;为他们做同声传译。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Internationale&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Internationale&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;ruby&gt;&lt;rb&gt;从来就没有什么救世主&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Il n&#39;est pas de sauveurs suprêmes&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ruby&gt;&lt;rb&gt;也不靠神仙皇帝！&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Ni Dieu, ni César, ni tribun&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ruby&gt;&lt;rb&gt;要创造人类的幸福&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Producteurs, sauvons-nous nous-mêmes&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ruby&gt;&lt;rb&gt;全靠我们自己！&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Décrétons le salut commun&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;以下段落不适合以下人群阅读：台独、白皮猪、香蕉人&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="评论" scheme="https://futaba.love/categories/comment/"/>
+    
+    
+      <category term="流浪地球" scheme="https://futaba.love/tags/the-wandering-earth-2019/"/>
+    
+      <category term="外国人" scheme="https://futaba.love/tags/foreigner/"/>
+    
+      <category term="台湾人" scheme="https://futaba.love/tags/taiwanren/"/>
+    
+      <category term="香蕉人" scheme="https://futaba.love/tags/banana-bitch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>修改hosts文件，屏蔽百度百家号</title>
+    <link href="https://futaba.love/2019/03/06/modify-hosts-to-block-baidu-baijiahao/"/>
+    <id>https://futaba.love/2019/03/06/modify-hosts-to-block-baidu-baijiahao/</id>
+    <published>2019-03-06T05:56:26.000Z</published>
+    <updated>2020-11-13T06:42:52.746Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;中国一家独大的搜索引擎“百度”，已经肆无忌惮地把搜索结果首屏的流量引向自家的平台了。有一篇《搜索引擎百度已死》总结了这种现象。&lt;/p&gt;
+&lt;p&gt;那么，作为一般用户，通过修改&lt;code&gt;hosts&lt;/code&gt;把抄袭和谣言占多数的百度百家号间接屏蔽，避免自己误入这些网址吧。&lt;/
+        
+      
+    
+    </summary>
+    
+      <category term="HOSTS" scheme="https://futaba.love/categories/HOSTS/"/>
+    
+    
+      <category term="HOSTS" scheme="https://futaba.love/tags/HOSTS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为hexo博客添加404页面</title>
+    <link href="https://futaba.love/2019/02/25/hexo-add-404-page/"/>
+    <id>https://futaba.love/2019/02/25/hexo-add-404-page/</id>
+    <published>2019-02-25T08:48:57.000Z</published>
+    <updated>2020-11-13T06:42:52.748Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在&lt;code&gt;source&lt;/code&gt;目录下新建一个&lt;code&gt;404.md&lt;/code&gt;，在文件头部添加以下几行&lt;/p&gt;
+&lt;figure class=&quot;highlight md&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="HEXO" scheme="https://futaba.love/categories/HEXO/"/>
+    
+    
+      <category term="HEXO" scheme="https://futaba.love/tags/HEXO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开始使用Hexo</title>
+    <link href="https://futaba.love/2019/02/22/start-using-hexo/"/>
+    <id>https://futaba.love/2019/02/22/start-using-hexo/</id>
+    <published>2019-02-22T09:25:46.000Z</published>
+    <updated>2020-11-13T06:42:52.749Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;什么是Hexo&quot;&gt;&lt;a href=&quot;#什么是Hexo&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="HEXO" scheme="https://futaba.love/categories/HEXO/"/>
+    
+    
+      <category term="HEXO" scheme="https://futaba.love/tags/HEXO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新插件Hexo-pinyin-ruby-marks发布了</title>
+    <link href="https://futaba.love/2019/02/18/new-plugin-hexo-pinyin-ruby-marks-published/"/>
+    <id>https://futaba.love/2019/02/18/new-plugin-hexo-pinyin-ruby-marks-published/</id>
+    <published>2019-02-18T06:42:18.000Z</published>
+    <updated>2020-11-13T06:42:52.749Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;新插件&lt;a href=&quot;https://www.npmjs.com/package/hexo-pinyin-ruby-marks&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo-pinyin-ruby-marks&lt;/a&gt;发布于NPM，&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="HEXO" scheme="https://futaba.love/categories/HEXO/"/>
+    
+    
+      <category term="HEXO" scheme="https://futaba.love/tags/HEXO/"/>
+    
+      <category term="插件" scheme="https://futaba.love/tags/plugin/"/>
+    
+      <category term="拼音" scheme="https://futaba.love/tags/pinyin/"/>
+    
+      <category term="HTML" scheme="https://futaba.love/tags/HTML/"/>
+    
+  </entry>
+  
+</feed>

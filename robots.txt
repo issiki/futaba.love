@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Allow: /2019
+Allow: /about
+ALlow: /archives
+Allow: /categories
+Disallow: /css
+Disallow: /fancybox
+Disallow: /js
+Allow: /tags
+
+Sitemap: https://futaba.love/sitemap.xml
